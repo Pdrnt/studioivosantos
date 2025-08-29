@@ -139,7 +139,7 @@ export const ForgotPasswordPage: React.FC = () => {
                     to="/login"
                     className="text-sm font-medium text-[#E3A872] hover:text-[#D89860]"
                   >
-                    Voltar para o login
+                    Voltar para o Login
                   </Link>
                 </div>
               </form>
